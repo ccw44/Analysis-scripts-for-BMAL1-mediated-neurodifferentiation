@@ -173,3 +173,5 @@ The following software and versions were used for analysis:
 ---
 
 # Repository Structure
+
+This repository is licensed under the MIT License. See the LICENSE file for details.
